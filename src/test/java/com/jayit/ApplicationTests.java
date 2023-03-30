@@ -1,4 +1,4 @@
-package in.eshwar;
+package com.jayit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
